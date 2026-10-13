@@ -23,7 +23,7 @@ Most of this is client work, so the code stays private. The products are live, t
 | [CustomStudio](https://custmiz.netlify.app/) | Product and packaging control system, Arabic-first. Still in progress | Web app, role-based access |
 | [Olyx](https://olyxsa.com/) | Agency platform where each client gets a bilingual site and an Arabic admin panel they run themselves | Web, CMS, SEO |
 | [Ashal](https://ashalfront.azurewebsites.net/index) | Front end for an IT-solutions company. I learned Angular on this one while shipping to production | Angular, TypeScript, Azure |
-| [Taqaseem](https://ealesayi.netlify.app/taqaseem_presentation.html) | App for tailoring workshops: measurements, fabric stock, order stages, and a WhatsApp message when the thobe is ready | Flutter, Firebase |
+| [Taqaseem](https://taqaseem.olyxsa.com/) | App for tailoring workshops: measurements, fabric stock, order stages, and a WhatsApp message when the thobe is ready | Flutter, Firebase |
 | [Johnson PPF](https://johnson-ppf.com/) | Site for a car-care studio, with booking requests going straight to WhatsApp | Web, local SEO |
 
 There's more on my [portfolio](https://ealesayi.netlify.app/).
