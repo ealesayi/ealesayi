@@ -40,4 +40,4 @@ There's more on my [portfolio](https://ealesayi.netlify.app/).
 
 ### Get in touch
 
-Got a product in mind, or a role you think I'd fit? Email me at **ebrahim.t.alesayi@gmail.com** or reach me on [LinkedIn](https://www.linkedin.com/in/ebrahimmatalesayi).
+Got a product in mind? Email me at **ebrahim.t.alesayi@gmail.com** or reach me on [LinkedIn](https://www.linkedin.com/in/ealesayi).
