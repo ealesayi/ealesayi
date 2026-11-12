@@ -21,6 +21,7 @@ Most of this is client work, so the code stays private. The products are live, t
 |---|---|---|
 | [Libro](https://libro-mea.com/) | Bilingual online store for smart watches and bracelets | React, e-commerce |
 | [Alot](https://alot-mea.com/en) | Store for a Middle East brand of phone covers and bags, with a video hero and an Arabic/English interface | React, Firebase |
+| [Defend](https://defend.sa/) | Warranty platform for a phone-protection brand: customers register a product or open a claim, and a staff portal reviews each one against the factory's approved number list | PHP, admin portal, Excel/CSV import |
 | [Oudyaa](https://oudyaa.netlify.app/) | Brand site for smart incense burners, built around an interactive 3D product hero | Three.js, brand site |
 | [CustomStudio](https://custmiz.netlify.app/) | Product and packaging control system, Arabic-first. Still in progress | Web app, role-based access |
 | [Olyx](https://olyxsa.com/) | Agency platform where each client gets a bilingual site and an Arabic admin panel they run themselves | Web, CMS, SEO |
